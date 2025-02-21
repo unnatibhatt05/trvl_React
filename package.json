@@ -6,15 +6,15 @@
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@fortawesome/fontawesome-free": "^6.7.2",
-    "@mui/material": "^6.4.5",
+    "@mui/material": "^5.14.5",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
-    "@testing-library/react": "^16.2.0",
+    "@testing-library/react": "^14.0.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.9",
     "font-awesome": "^4.7.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-router-dom": "^7.2.0",
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4",
@@ -45,7 +45,7 @@
     ]
   },
   "devDependencies": {
-    "babel-jest": "^24.9.0"
+    "babel-jest": "^29.7.0"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
@@ -58,6 +58,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/unnatibhatt05/trvl_React/issues"
-  },
-  "homepage": "https://github.com/unnatibhatt05/trvl_React#readme"
+  }
 }
