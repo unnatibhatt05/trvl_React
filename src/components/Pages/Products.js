@@ -2,6 +2,14 @@ import React from 'react';
 import '../../App.css';
 
 export default function Products() {
-  console.log("Products component rendered!");
-  return <h1 className='products'>PRODUCTS PAGE</h1>;
+  return (
+    <div 
+      className="page-container" 
+      style={{ 
+        background: "url('/images/img-3.jpg') center/cover no-repeat" 
+      }}
+    >
+      PRODUCTS
+    </div>
+  );
 }

@@ -11,6 +11,7 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.7.9",
     "font-awesome": "^4.7.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -45,5 +46,18 @@
   },
   "devDependencies": {
     "babel-jest": "^24.9.0"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unnatibhatt05/trvl_React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unnatibhatt05/trvl_React/issues"
+  },
+  "homepage": "https://github.com/unnatibhatt05/trvl_React#readme"
 }
